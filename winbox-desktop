@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Winbox
+Type=Application
+Exec=wine /home/YOURUSER/.wine/drive_c/windows/winox.exe
+Terminal=false
+Icon=/home/YOURUSER/.icons/winbox.jpeg
+StartupNotify=true
